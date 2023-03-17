@@ -16,8 +16,8 @@ public class Client {
 
 		//Define the client data structures
 		int message;
-		String movies="";
-		Random r= new Random();
+		String movies = "";
+		Random r = new Random();
 		
 		try {
 			//Open a socket connection using the default host and port or the one specified as arguments
